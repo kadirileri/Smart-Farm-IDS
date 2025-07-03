@@ -3,11 +3,11 @@ The dataset, named **Smart-Farm-IDS** (Smart Farming Intrusion Detection System 
 **Citation:**
 
 Please cite the following paper if you use this dataset:  
-Title: A Hybrid Feature Selection Method for Anomaly Detection Using Shallow and Deep ANN Classifiers in Smart Farming
-Author: Kadir Ileri
-Journal: Journal of Ambient Intelligence and Smart Environments
-Year: 2025
+Title: A Hybrid Feature Selection Method for Anomaly Detection Using Shallow and Deep ANN Classifiers in Smart Farming  
+Author: Kadir Ileri  
+Journal: Journal of Ambient Intelligence and Smart Environments  
+Year: 2025  
 DOI: https://doi.org/10.1177/18761364251359885
 
-**License:**
+**License:**  
 This dataset is licensed under a [**Creative Commons Attribution 4.0 International**](https://creativecommons.org/licenses/by/4.0/legalcode) (CC BY 4.0) license. This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
